@@ -11,7 +11,7 @@ const Contact = () => {
          <div className='text-white max-w-[1200px] mx-auto p-8 text-center'>
     
                 <div
-                    className='flex flex-row justify-center items-center bg-white/10 p-4 rounded-xl'>
+                    className='flex flex-row justify-between items-center bg-white/10 p-4 rounded-xl'>
                     <h1>Website</h1>
                     <a href="https://vjdataquesters.vercel.app/">  Click here</a>
 
